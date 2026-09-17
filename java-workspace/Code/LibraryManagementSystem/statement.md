@@ -20,7 +20,7 @@ The Simple Library Management System is a modular, console-driven Java applicati
 - Fine calculation or payment gateway integration for overdue books.
 
 ## 3. Target Users
-- **Primary Users**: Small school/college department librarians, resource center coordinators, and private collection managers.
+- **Primary Users**: Small school/college department librarians, administrator, resource center coordinators, and private collection managers.
 - **Secondary Users**: Students or internal staff interacting with console prompts during self-service kiosk testing.
 
 ## 4. High-Level Features
