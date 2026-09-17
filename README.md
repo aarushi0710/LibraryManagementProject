@@ -79,6 +79,8 @@ Plaintext
 2. Display All Books
 3. Issue Book
 4. Return Book
-5. Exit
+5. Delete a Book
+6. Load data from file directly
+7. Exit
 ----------------------------------------
 Enter your choice:
