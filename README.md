@@ -70,7 +70,7 @@ To verify system functionality and file persistence:
 
    * **Error Checking: Attempt to check out an unlisted Book ID (e.g., 999) to confirm custom exception handling alerts.
 
-
+### Display
 Plaintext
 ========================================
        LIBRARY MANAGEMENT SYSTEM        
