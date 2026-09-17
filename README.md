@@ -38,14 +38,14 @@ git clone [https://github.com/aarushi0710/LibraryManagementProject.git](https://
 cd LibraryManagementProject
 ```
 
-2. Compile the Source Code
+### 2. Compile the Source Code
 Navigate to the source directory and compile all Java classes:
 
 ```bash
 javac -d bin src/**/*.java
 ```
 
-3. Run the Application
+### 3. Run the Application
 Execute the main application class from the compiled output folder:
 
 ```bash
