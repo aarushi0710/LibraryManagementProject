@@ -21,9 +21,8 @@ The **Library Management System** offers a robust, lightweight solution for mana
 ## Technologies & Tools Used
 * **Language**: Java (JDK 17 or higher)
 * **Architecture**: Layered Software Architecture (Model-Repository-Service)
-* **Persistence**: Java Object Serialization (`java.io.Serializable`)
-* **IDE/Tools**: Visual Studio Code / Command Line
-
+* **Persistence**: Java Object Serialization (`java.io.Serializable`) / Binary file
+* **IDE/Tools**: Visual Studio Code / Command Line / Language Support for Java(TM) by Red Hat / Prettier - Code formatter
 ---
 
 ## Steps to Install & Run
@@ -52,7 +51,7 @@ Execute the main application class from the compiled output folder:
 java -cp bin Main
 ```
 
-### Testing Instructions
+### 4. Testing Instructions
 To verify system functionality and file persistence:
 
 * **1. Launch the Application**: Run java -cp bin Main.
@@ -71,8 +70,6 @@ To verify system functionality and file persistence:
 
    * **Error Checking: Attempt to check out an unlisted Book ID (e.g., 999) to confirm custom exception handling alerts.
 
-Screenshots
-(Optional: Add screenshots or terminal output examples below)
 
 Plaintext
 ========================================
