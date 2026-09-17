@@ -41,14 +41,14 @@ cd LibraryManagementProject
 2. Compile the Source Code
 Navigate to the source directory and compile all Java classes:
 
-Bash
+```bash
 javac -d bin src/**/*.java
 ```
 
 3. Run the Application
 Execute the main application class from the compiled output folder:
 
-Bash
+```bash
 java -cp bin Main
 ```
 
