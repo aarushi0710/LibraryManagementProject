@@ -55,15 +55,15 @@ java -cp bin Main
 ### Testing Instructions
 To verify system functionality and file persistence:
 
-Launch the Application: Run java -cp bin Main.
+* **1. Launch the Application**: Run java -cp bin Main.
 
-Add a Book: Select the option to add a book (e.g., Title: "Java Programming", ID: 101, Copies: 5).
+* **2. Add a Book**: Select the option to add a book (e.g., Title: "Java Programming", ID: 101, Copies: 5).
 
-Issue a Book: Perform a borrowing transaction against Book ID 101 and verify that available copies decrease to 4.
+* **3. Issue a Book**: Perform a borrowing transaction against Book ID 101 and verify that available copies decrease to 4.
 
-Test Persistence:
+* **4. Test Persistence**:
 
-Exit the application.
+* **5. Exit the application.**
 
 Verify that library_data.txt is generated in the workspace root directory.
 
