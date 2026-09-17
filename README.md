@@ -36,18 +36,21 @@ The **Library Management System** offers a robust, lightweight solution for mana
 ```bash
 git clone [https://github.com/aarushi0710/LibraryManagementProject.git](https://github.com/aarushi0710/LibraryManagementProject.git)
 cd LibraryManagementProject
+```
+
 2. Compile the Source Code
 Navigate to the source directory and compile all Java classes:
 
 Bash
 javac -d bin src/**/*.java
+```
 
 3. Run the Application
 Execute the main application class from the compiled output folder:
 
 Bash
 java -cp bin Main
-
+```
 Testing Instructions
 To verify system functionality and file persistence:
 
