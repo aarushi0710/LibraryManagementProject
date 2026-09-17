@@ -65,11 +65,11 @@ To verify system functionality and file persistence:
 
 * **5. Exit the application.**
 
-Verify that library_data.txt is generated in the workspace root directory.
+   * **Verify that library_data.txt is generated in the workspace root directory.
 
-Re-launch the application and view the catalog to confirm that Book ID 101 retains its updated stock.
+   * **Re-launch the application and view the catalog to confirm that Book ID 101 retains its updated stock.
 
-Error Checking: Attempt to check out an unlisted Book ID (e.g., 999) to confirm custom exception handling alerts.
+   * **Error Checking: Attempt to check out an unlisted Book ID (e.g., 999) to confirm custom exception handling alerts.
 
 Screenshots
 (Optional: Add screenshots or terminal output examples below)
