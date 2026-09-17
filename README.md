@@ -51,7 +51,8 @@ Execute the main application class from the compiled output folder:
 Bash
 java -cp bin Main
 ```
-Testing Instructions
+
+### Testing Instructions
 To verify system functionality and file persistence:
 
 Launch the Application: Run java -cp bin Main.
